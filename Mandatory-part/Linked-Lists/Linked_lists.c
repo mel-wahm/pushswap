@@ -74,10 +74,3 @@ int	ft_lstsize(t_node *lst)
 	}
 	return (count);
 }
-
-// int		main(void)
-// {
-// 	t_node	*number1 = ft_lstnew(10);
-// 	printf("%d\n", number1 -> number);
-// 	ft_lstclear(&number1);
-// }
