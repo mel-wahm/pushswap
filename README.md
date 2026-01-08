@@ -111,6 +111,3 @@ https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-t
 
 https://www.youtube.com/watch?v=wRvipSG4Mmk&t=1219s
 - A youtube tutorial that explains the projects clearly, although, she implemented a different sorting algorithm called the **Turk Algorithm**, which is a bit hard coded and it is not elegant.
-
-### Use of Ai:
-- I mostly used AI to understand the subject better and create a road map in the beginning for how I should proceed during working on this project.
